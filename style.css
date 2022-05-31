@@ -38,6 +38,7 @@ h1{
 
 p{
   padding-top: 20px;
+  color: var(--backcolor);
 }
 
 /* ---------- MAIN ------------- */
